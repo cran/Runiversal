@@ -31,8 +31,6 @@ This function is generally called by main routines of package. See 'see also' se
 
 \seealso{
 makexml
-}
-\seealso{
 makejava
 }
 \examples{

@@ -4,7 +4,7 @@
 makexml
 }
 \description{
-This function converts an R object to xml code, so an output of a R script can be handled easly by any programming language.
+This function converts an R object to xml code, so an output of an R script can be handled easly by any programming language.
 Every elements in xml is encapsulated in <root></root> tags. Any variable in list or variable itself is placed between <variable> and </variable>
 tags. Values of elemenets are placed between <value> and </value> tags. Xml structure is easy to parse and browse. 
 }

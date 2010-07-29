@@ -4,7 +4,7 @@
 makevectorxml()
 }
 \description{
-This is a utility function for makexml() and not generally be called by user.
+This is an utility function for makexml() and not generally be called by user.
 }
 \usage{
 makevectorxml(code, objt, name = "")

@@ -33,7 +33,7 @@ See an Java implementation using this functionality in http://www.mhsatman.com/r
 Mehmet Hakan Satman
 }
 \note{
-This function makes interpretable code for Java. For other languages you can use makexml to convert R objects to XML code. XML is readable
+This function generates interpretable code for Java. For other languages you can use makexml to convert R objects to XML code. XML is readable
 for all of the programming languages.
 }
 

@@ -4,7 +4,7 @@
 makevectorjava()
 }
 \description{
-This is a utility function for makejava() and not generally be called by user.
+This is an utility function for makejava() and not generally be called by user.
 }
 \usage{
 makevectorjava(code, objt, name = "")

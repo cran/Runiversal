@@ -30,11 +30,9 @@ Mehmet Hakan Satman
 
 \seealso{
 makexml
-}
-
-\seealso{
 makejava
 }
+
 
 \examples{
 a<-"a string"
