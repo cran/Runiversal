@@ -1,0 +1,10 @@
+a53233fc9fbb3941bbbb0017121eeb84 *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+6035c264c388f84ef8c856b605efcf08 *R/runiversal.r
+0ff39fb24055f15e9fefc607186542ea *man/Runiversal-package.Rd
+f90c028e98f23cebff9ee1c479010d81 *man/cleanNames.Rd
+54ffef42df5c8656631581a24065e6a3 *man/concat.Rd
+7b7b60b2685ecf23ab08d1c358bbd05e *man/makejava.Rd
+58c416b7ca0510b5428d2c201d5bfbb2 *man/makevectorjava.Rd
+a162cca5eb1aca161879972ac521b4ed *man/makevectorxml.Rd
+89f94b921b511d91d5a4fb0ad9244331 *man/makexml.Rd
